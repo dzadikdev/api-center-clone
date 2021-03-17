@@ -32,14 +32,8 @@ Okta is a standards-compliant OAuth 2.0 authorization server and a certified Ope
 
 Okta is a standards-compliant OAuth 2.0 authorization server and a certified OpenID Provider, so Okta will work with any API gateway or service that supports an external OAuth provider. As of today (July 2020), we have directly proven out compatibility with the following gateways (and reverse proxies):
 
-* Amazon API gateway
 * Apigee
-* Google Cloud Endpoints
-* Kong
-* Mulesoft
-* NGINX
-* Software AG
-* Tyk
+
 
 ## Overview of setup
 
